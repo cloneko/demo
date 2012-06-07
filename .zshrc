@@ -33,9 +33,9 @@ setopt NO_BEEP
 # autoload -U colors
 #colors
 
-export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/home/cloneko/lib
-export PATH=$PATH:/home/cloneko/bin
-export PERL5LIB=/home/cloneko/lib/perl5/5.8.8/i386-linux-thread-multi/
+export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/home/yonashiro/lib
+export PATH=$PATH:/home/yonashiro/bin
+export PERL5LIB=/home/yonashiro/lib/perl5/5.8.8/i386-linux-thread-multi/
 alias	ls='ls -F'
 alias	la='ls -a'
 alias	ll='ls -l'
