@@ -42,6 +42,7 @@ alias	ll='ls -l'
 
 #PROMPT='[%n@%m]%~%# '    # default prompt
 PROMPT='[%n@%m %~]%# '
+EDITOR=vi
 
 alias aptproxy='export http_proxy=http://172.16.40.1:8888'
 alias aptproxyremove='export http_proxy='
